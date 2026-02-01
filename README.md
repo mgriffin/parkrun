@@ -9,7 +9,6 @@ Read more about why at https://mikegriffin.ie/blob/20260131-all-the-parkruns-in-
 ```bash
 $ bundle exec sequel -m db/migrations sqlite://db/parkrun.sqlite
 $ ruby calc.rb
-$ ruby calc.rb
 Getting county information
 Calculating distances
 Westport parkrun to Castlebar parkrun is 17km
