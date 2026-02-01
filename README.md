@@ -2,7 +2,7 @@
 
 To drive between all the Parkrun courses in Mayo
 
-Read more about why at https://mikegriffin.ie/blob/20260131-all-the-parkruns-in-mayo-in-one-day
+Read more about why at https://mikegriffin.ie/blog/20260131-all-the-parkruns-in-mayo-in-one-day
 
 ### Output
 
